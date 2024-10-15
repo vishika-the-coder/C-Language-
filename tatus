@@ -1,0 +1,66 @@
+[33mcommit 0dcb85ec932d3bfccd7ae3eaf562773707c66bea[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 6fc6670 d8ad917
+Author: SRG 04 <khushisingh23372@gmail.com>
+Date:   Tue Oct 15 07:22:23 2024 +0530
+
+    1st program on structures
+
+[33mcommit 6fc667091732217e28c680e4fda9f9b9fe76f176[m
+Author: SRG 04 <khushisingh23372@gmail.com>
+Date:   Sat Oct 12 08:08:51 2024 +0530
+
+    find the common element
+
+[33mcommit d8ad917a1ddda45e87d4c8d3304fe166484a696a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <khushisingh23372@gmail.com>
+Date:   Thu Oct 10 21:05:40 2024 +0530
+
+    find the missing element in an Array
+
+[33mcommit 44eb7e2583cd9103eb58f16c818235da840f976a[m
+Author: SRG 04 <khushisingh23372@gmail.com>
+Date:   Tue Oct 8 07:39:30 2024 +0530
+
+    add pointer problems malloc and calloc and realloc
+
+[33mcommit 326a3135c9b4c31afb1f47b826f766bb4aee09c7[m
+Author: unknown <khushisingh23372@gmail.com>
+Date:   Mon Oct 7 21:51:50 2024 +0530
+
+    Find Whether an Array is a Subset of Another Array
+
+[33mcommit 06c8598de082ca058b758a2e4b3d1ae20e98650d[m
+Author: SRG 04 <khushisingh23372@gmail.com>
+Date:   Fri Oct 4 07:29:55 2024 +0530
+
+    sum of Array using Pointer
+
+[33mcommit be57977993a698e43d4d95ee492cbe9ed583c831[m
+Author: SRG 04 <khushisingh23372@gmail.com>
+Date:   Thu Oct 3 07:06:47 2024 +0530
+
+    print the  array elements in wave form
+
+[33mcommit 4bda01a07727144e8a693a2364022fbd4557e03d[m
+Author: unknown <khushisingh23372@gmail.com>
+Date:   Tue Oct 1 09:22:51 2024 +0530
+
+    find Majority Element in an Array
+
+[33mcommit ca007d5345e0d5595b64746eb60f129d51875fab[m
+Author: unknown <khushisingh23372@gmail.com>
+Date:   Sat Sep 28 23:25:50 2024 +0530
+
+    Day 9 problem
+
+[33mcommit 281315330be7b57dbb183edc5aaf44afc12dacfb[m
+Author: unknown <khushisingh23372@gmail.com>
+Date:   Sat Sep 28 22:40:37 2024 +0530
+
+    day 8
+
+[33mcommit 605c37e3b2d9c7d3e3e749d8745dd718b9473e90[m
+Author: unknown <khushisingh23372@gmail.com>
+Date:   Sat Sep 28 21:25:21 2024 +0530
+
+    problem and solutions
